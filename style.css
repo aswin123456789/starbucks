@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar.navbar-expand-lg .bg-body-tertiary .fixed-top{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
+
+::placeholder {
+
+    padding-left: 30px;
+
+   
+
+}
+
+.d-flex{
+    position: relative;
+}
+.search1{
+    top: 11px;
+    bottom: 6.6px;
+    right: 224px;
+    left: 20px;
+    position: absolute;
+}
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary.fixed-top {
+    padding: 0 113px 0 113px;
+    z-index: 1;
+}
+li.nav-item{
+    padding: 0 25px;
+}
+.navbar-nav.me-auto.mb-2.mb-lg-0{
+    padding: 0 30px;
+}
+form.d-flex {
+    margin-right: 94px;
+    border: 1px solid green;
+}
+
+.accnt{
+    margin-right: 15px;
+
+}
+ul li{
+    cursor: pointer;
+}
+.green{
+    background: #1e3932;
+    height: 10em;
+}
+.section-2{
+    background: #1e3932;
+    height: 6em;
+    border: 1px solid red;
+    margin-top: 72px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    border: 1px solid rgb(76, 0, 255);
+}
+.first{
+    border: 1px solid red;
+}
+
+.first-button.btn-sm{
+    background:  #1e3932;
+    color: white;
+    border: 2px solid white;
+    padding: 2px;
+    border-radius: 24px;
+    width: 7rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+.first-title{
+    color: white;
+}
+.section{
+    border: 1px solid rgb(13, 0, 255);
+    height: 30%;
+
+
+}
+.section-4{
+    border: 1px solid rgb(255, 0, 212);
+
+}
+.row.section-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+
+
+}
+.col-2{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    /* width: 14%; */
+    
+}
+.img-section-4{
+    object-fit: cover;
+    margin-top: 10px;
+    border-radius: 50%;
+    border: 1px solid #edebe9;
+    cursor: pointer;
+    height: 108px;
+    width: 108px;
+}
+.p-section-4{
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight:bold;
+}
+
+.col-6.col-md-4.col-lg-2{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-h2 h2{
+    font-weight: 650;
+    padding-left: 6rem;
+
+}
+
+.container-fluid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* carousel */
+
+.section-5{
+    height: 252px;
+    border: 1px solid red;
+    display: flex;
+    justify-content:center;
+    align-items: end;
+
+
+}
+.carousel.slide{
+    height: 220px;
+    width: 1320px;
+
+    border: 1px solid rgb(51, 16, 226);
+
+}
+
